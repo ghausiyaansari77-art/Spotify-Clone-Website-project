@@ -1,18 +1,18 @@
 # Spotify Clone Website
 A responsive Spotify-inspired music player website created using HTML and CSS.
 
-## Features
+## 📌 Features
 - Modern Spotify-style UI
 - Sidebar navigation menu
 - Music player layout
 - Resposive design
 - Custom background images and icons
 
-## Technologies Used
+## 🛠️ Technologies Used
 - HTML
 - CSS
 
-## Project purpose
+## 🚀 Project purpose
 This project was created to improve frontend development and CSS styling skills.
 
 ## Author
